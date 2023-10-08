@@ -1,1 +1,2 @@
-1. /.vs
+1. git rm -r --cached ".vs/"
+2. /.vs
